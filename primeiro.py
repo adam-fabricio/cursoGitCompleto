@@ -1,4 +1,7 @@
-"""primeiro arquivo."""
+"""primeiro arquivo.
+
+Removido a funcionalidade.
+"""
 
 import segundo
 import terceiro
